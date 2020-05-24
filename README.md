@@ -3,7 +3,7 @@ Shortlisting for interview of different roles using ML logistic regression algor
 <br>
 <br>
 
-To test the project go to Driver section in the file and provide necessary inputs <br>
+To test the project go to Driver section in the end of the file and provide necessary inputs <br>
 
 <li>First I manipulated the data to create a seperate column for each skill(somewhat similar to pd.get_dummies)
 <li>Those columns were later filled by 1 and 0 values on the basis of that particuar skill present.
